@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-proxy-sqlite3:alpine-5.0.24
+FROM zabbix/zabbix-proxy-sqlite3:alpine-5.0.25
 
 LABEL maintainer="mr.lioncub" \
       link1="https://github.com/zabbix/zabbix-docker/tree/5.0/server-mysql/alpine" \
