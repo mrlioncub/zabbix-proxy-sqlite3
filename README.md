@@ -9,7 +9,7 @@ Zabbix server uses MySQL database with Microsoft ODBC driver for SQL Server on A
 
 ## Uses
 
-  * Official docker image Zabbix proxy with SQLite3 database support 5.0
+  * Official docker image Zabbix proxy with SQLite3 database support 6.0
   * Microsoft ODBC driver for SQL Server 18
 
 ## Links
